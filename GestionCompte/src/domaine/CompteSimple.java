@@ -27,7 +27,7 @@ public class CompteSimple extends Compte{
 	@Override
 	public String toString() {		
 		return "Informations sur votre compte courant: \n" + super.toString() +
-				", découvert= " + decouvert;
+				", dï¿½couvert= " + decouvert +"mohamed";
 	}
 	
 	
