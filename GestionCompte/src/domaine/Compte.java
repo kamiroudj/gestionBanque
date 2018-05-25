@@ -55,7 +55,7 @@ public class Compte {
 	@Override
 	public String toString() {
 		
-		return "code= " + code + ", solde=" + solde ;
+		return "code= " + code + ", solde=" + solde+"kamir" ;
 	}
 	
 	
